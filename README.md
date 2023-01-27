@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Thaybueno
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, sou a Thaina Bueno 
+- 👀 Estou atualmente estudando Análise e Desenvolvimento de Sistemas 
+- 🤳 Meu e-mail parq contato é: thaina.bueno655@hotmail.com 
 
-<!---
-Thaybueno/Thaybueno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+      SEJA BEM VINDO AO MEU REPOSITÓRIO 💖
