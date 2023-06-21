@@ -13,4 +13,4 @@
     <img align= "center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Sou uma pessoa muito focada, objetiva, de fácil aprendizado, apaxionada pela tecnologia e sempre em busca de novos conhecimentos. 
+Sou uma pessoa muito focada, objetiva, de fácil aprendizado, apaixonada pela tecnologia e sempre em busca de novos conhecimentos. 
