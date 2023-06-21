@@ -1,6 +1,5 @@
-- 👋 Olá! Sou a Thaina Bueno 
-- 👀 Estou atualmente estudando Análise e Desenvolvimento de Sistemas 
-- 🤳 Meu e-mail para contato é: thaina.bueno655@hotmail.com 
-- 💬 Meu LinkedIn é: https://www.linkedin.com/in/thaina-bueno-7654b8251/
 
-      SEJA BEM VINDO AO MEU REPOSITÓRIO 💖
+### Olá! Eu sou a Thainá Bueno👋
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaina-bueno)
+
+![Thaina GitHub stats](https://github-readme-stats.vercel.app/api?username=thaybueno&show_icons=true&theme=dracula)
